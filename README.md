@@ -1,7 +1,8 @@
 # Final-Project-Waste-System
+
 ![alt text](https://github.com/Wisdom-Miley/Final-Project-Waste-System/blob/master/static/img/waste_system.png?raw=true)
 ## Please note 
-The website must run locally however It's between deverlop part to prepict between Recyclable or diodradable.
+The website must run locally however Its between deverlop part to prepict between Recyclable or diodradable.
 ## Project purposal
 To create and develop the system to separate the waste by using Machine Leaning to read the picture of the waste.
 The system model has classified into two significant parts. And minimize environmental pollution such as landfill or can better to cycle again.
@@ -26,3 +27,12 @@ This is the beginning of the machine leaning which can apply in so many sector. 
 
 ## Website to predict 
 ![alt text](https://github.com/Wisdom-Miley/Final-Project-Waste-System/blob/master/static/img/web_after_image.JPG?raw=true)
+## Please note 
+The website must run local http://127.0.0.1:5000/ however Its between deverlop part to prepict between Recyclable or diodradable.
+## Introduction to run 
+Download the fils or clone it
+Open and run index.py via terminal 
+Upload picture where you can see from upload
+Please note Predictiction is still in processe.
+## Thank you 
+
