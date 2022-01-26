@@ -30,9 +30,9 @@ This is the beginning of the machine leaning which can apply in so many sector. 
 ## Please note 
 The website must run local http://127.0.0.1:5000/ however Its between deverlop part to prepict between Recyclable or diodradable.
 ## Introduction to run 
-Download the fils or clone it
-Open and run index.py via terminal 
-Upload picture where you can see from upload
-Please note Predictiction is still in processe.
+- Download the fils or clone it
+- Open and run index.py via terminal 
+- Upload picture where you can see from upload
+- Please note Predictiction is still in processe.
 ## Thank you 
 
