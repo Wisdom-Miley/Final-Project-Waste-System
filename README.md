@@ -19,7 +19,7 @@ As we can see the more training I've done. better of accuracy
 ![alt text](https://github.com/Wisdom-Miley/Final-Project-Waste-System/blob/master/static/img/train%20accuracy.JPG?raw=true)
 ![alt text](https://github.com/Wisdom-Miley/Final-Project-Waste-System/blob/master/static/img/loss.JPG?raw=true)
 
-## let predictict our model 
+## Let's predictict the model 
 ![alt text](https://github.com/Wisdom-Miley/Final-Project-Waste-System/blob/master/static/img/predicting%20the%20image.JPG?raw=true)
 
 # Conclusion 
